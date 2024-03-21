@@ -1,8 +1,8 @@
+Customer retention is a key focus for banks in ensuring the longevity of their business. ABC Multinational Bank, in particular, is keen on retaining its account holders. The objective here is to analyze the customer data of the bank's account holders with the ultimate goal of predicting and mitigating customer churn.
+
 ## Data Source
 
 Bank Churn Dataset (kaggle.com) 
-
-Customer retention is a key focus for banks in ensuring the longevity of their business. ABC Multinational Bank, in particular, is keen on retaining its account holders. The objective here is to analyze the customer data of the bank's account holders with the ultimate goal of predicting and mitigating customer churn.
 
 Below is the customer data of account holders at the fictional ABC Multinational Bank and the aim of the data will be predicting the Customer Churn.
 
