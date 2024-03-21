@@ -61,7 +61,11 @@ The graph below shows the calculated feature importance results showing which fe
 ![image](https://github.com/jlawrence16/project_four/assets/134929607/e8750b56-da39-4ad7-807c-81e2bde42576)
 
 
+## Data Visualizations
 
+Data Visualizations were created in Tableau Public
+
+INSERT LINKS HERE
 
 
 
