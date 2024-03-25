@@ -65,8 +65,8 @@ The graph below shows the calculated feature importance results showing which fe
 
 Data Visualizations were created in Tableau Public
 
-INSERT LINKS HERE
-
+[INSERT LINKS HERE
+](https://public.tableau.com/app/profile/alaina.duquette/viz/Project4-BankChurn/AgeBreakdown2?publish=yes)https://public.tableau.com/app/profile/alaina.duquette/viz/Project4-BankChurn/AgeBreakdown2?publish=yes
 
 
 
